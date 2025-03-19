@@ -1,4 +1,4 @@
-package com.laioffer.twitch.db;
+package com.laioffer.twitch.db.entity;
 
 
 import com.fasterxml.jackson.annotation.JsonProperty;

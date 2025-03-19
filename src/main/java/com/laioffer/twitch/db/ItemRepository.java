@@ -1,4 +1,4 @@
-package com.laioffer.twitch.db.entity;
+package com.laioffer.twitch.db;
 
 
 import com.laioffer.twitch.db.entity.ItemEntity;
